@@ -1,0 +1,24 @@
+/*
+Creator:  Mace Wescott
+Date created:  1/31/2020
+Date last modified:
+*/
+/* Form styling */
+
+	h1 {
+	font-family: Cursive, Arial;
+		text-decoration: underline overline wavy purple;
+		font-weight: bold;
+	}
+	
+	nav a {
+		text-decoration: none;		
+}	
+
+	nav a:visited {
+		color: blue;
+	}
+
+	nav a:hover {
+	font-weight: bold;
+}
